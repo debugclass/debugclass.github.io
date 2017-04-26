@@ -1,6 +1,2 @@
-Welcome to My Blog Website
-
-
-
-
+Welcome to My Blog Website  
                                                                                                                                 by my life      
